@@ -1,0 +1,22 @@
+[
+  {
+    "id": "e178d17b-6fc2-4be5-b73c-5dcad0013f66",
+    "name": "Local",
+    "host": "localhost",
+    "port": 8585,
+    "description": "",
+    "status": "ONLINE",
+    "serverType": "OTHER",
+    "lastChecked": "2026-05-31T22:15:43.625915"
+  },
+  {
+    "id": "096c0036-5877-4552-afa1-2bb1bc0f0038",
+    "name": "corporate",
+    "host": "100.66.120.110",
+    "port": 8585,
+    "description": "",
+    "status": "ONLINE",
+    "serverType": "CORPORATE",
+    "lastChecked": "2026-05-31T22:15:43.8221112"
+  }
+]

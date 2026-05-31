@@ -1,0 +1,31 @@
+{
+  "id": "7156df30-b587-4760-892d-69edb33a2718",
+  "deployedAt": "2026-05-31T18:22:08.291881",
+  "totalFiles": 1,
+  "totalServers": 1,
+  "successCount": 2,
+  "failedCount": 0,
+  "skippedCount": 0,
+  "fileNames": ["OfficeSetup.exe"],
+  "serverNames": ["Local"],
+  "results": [
+    {
+      "serverName": "Local",
+      "serverHost": "localhost:8585",
+      "fileName": "OfficeSetup.exe",
+      "fileType": "EXE",
+      "status": "SUCCESS",
+      "message": "[2T] Deployed to D:\\\\Temp\\\\Siemens\\\\CustomFunctions\\\\bin\\\\OfficeSetup.exe",
+      "timestamp": "2026-05-31T18:22:08.1591615"
+    },
+    {
+      "serverName": "Local",
+      "serverHost": "localhost:8585",
+      "fileName": "OfficeSetup.exe",
+      "fileType": "EXE",
+      "status": "SUCCESS",
+      "message": "[4T] Deployed to D:\\\\Temp\\\\Siemens\\\\customsolutions\\\\CF\\\\OfficeSetup.exe",
+      "timestamp": "2026-05-31T18:22:08.2858447"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "65bfb551-9181-4ce7-85c3-47468445620d",
+  "serverName": "Local",
+  "serverHost": "localhost",
+  "backupPath": "D:\\DEV\\JAVA\\CFDeploymentTool\\data\\backups\\Local_20260531_174434",
+  "createdAt": "2026-05-31T17:44:34.6406038",
+  "totalSizeBytes": 0,
+  "fileCount": 0,
+  "status": "FAILED",
+  "notes": "No files found in source directory: D:\\DEV\\JAVA\\CFDeployAgent\\backups",
+  "fileNames": []
+}

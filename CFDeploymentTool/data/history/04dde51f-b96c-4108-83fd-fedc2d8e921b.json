@@ -1,0 +1,41 @@
+{
+  "id": "04dde51f-b96c-4108-83fd-fedc2d8e921b",
+  "ticketNumber": "001",
+  "deployedAt": "2026-05-31T22:15:30.2394379",
+  "totalFiles": 1,
+  "totalServers": 2,
+  "successCount": 1,
+  "failedCount": 2,
+  "skippedCount": 0,
+  "fileNames": ["OfficeSetup.exe"],
+  "serverNames": ["Local", "corporate"],
+  "results": [
+    {
+      "serverName": "Local",
+      "serverHost": "localhost:8585",
+      "fileName": "OfficeSetup.exe",
+      "fileType": "EXE",
+      "status": "SUCCESS",
+      "message": "[2T] Deployed to D:\\\\Temp\\\\Siemens\\\\CustomFunctions\\\\bin\\\\OfficeSetup.exe",
+      "timestamp": "2026-05-31T22:15:25.5211017"
+    },
+    {
+      "serverName": "corporate",
+      "serverHost": "100.66.120.110:8585",
+      "fileName": "OfficeSetup.exe",
+      "fileType": "EXE",
+      "status": "FAILED",
+      "message": "[2T] HTTP 400: {\"success\":false,\"message\":\"Illegal char <\\n> at index 11: D:\\\\backups\\\\\\new\"}",
+      "timestamp": "2026-05-31T22:15:27.9171283"
+    },
+    {
+      "serverName": "corporate",
+      "serverHost": "100.66.120.110:8585",
+      "fileName": "OfficeSetup.exe",
+      "fileType": "EXE",
+      "status": "FAILED",
+      "message": "[4T] HTTP 400: {\"success\":false,\"message\":\"Illegal char <\\n> at index 11: D:\\\\backups\\\\\\new\"}",
+      "timestamp": "2026-05-31T22:15:30.2394379"
+    }
+  ]
+}

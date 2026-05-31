@@ -1,0 +1,22 @@
+{
+  "id": "20219b53-1886-41dd-b8e6-053b4efefb13",
+  "deployedAt": "2026-05-31T17:42:10.1498159",
+  "totalFiles": 1,
+  "totalServers": 1,
+  "successCount": 1,
+  "failedCount": 0,
+  "skippedCount": 0,
+  "fileNames": ["OfficeSetup.exe"],
+  "serverNames": ["Local"],
+  "results": [
+    {
+      "serverName": "Local",
+      "serverHost": "localhost:8585",
+      "fileName": "OfficeSetup.exe",
+      "fileType": "EXE",
+      "status": "SUCCESS",
+      "message": "Deployed to D:\\\\DEV\\\\JAVA\\\\CFDeployAgent\\\\deploy\\\\bin\\\\OfficeSetup.exe",
+      "timestamp": "2026-05-31T17:42:10.1479654"
+    }
+  ]
+}

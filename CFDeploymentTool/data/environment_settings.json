@@ -1,0 +1,27 @@
+{
+  "activeEnvironmentId": "default",
+  "environments": [
+    {
+      "id": "default",
+      "name": "Default",
+      "port": 8585,
+      "pathCustomFunctionT2": "D:\\Temp\\Siemens\\CustomFunctions\\bin",
+      "pathCustomFunctionT4": "D:\\Temp\\Siemens\\customsolutions\\CF",
+      "pathPluginT2": "D:\\Temp\\Siemens\\tcroot\\portal\\plugins",
+      "pathPluginT4": "D:\\Temp\\Siemens\\customsolutions\\jar",
+      "backupDir": "D:\\backups\\",
+      "deployBackupDir": "D:\\backups\\new"
+    },
+    {
+      "id": "186f7225-1d22-4349-9c46-1ab119ccf249",
+      "name": "New Environment",
+      "port": 8585,
+      "pathCustomFunctionT2": "D:\\Temp\\Siemens\\CustomFunctions\\bin",
+      "pathCustomFunctionT4": "D:\\Temp\\Siemens\\customsolutions\\CF",
+      "pathPluginT2": "D:\\Temp\\Siemens\\\tcroot\\portal\\plugins",
+      "pathPluginT4": "D:\\Temp\\Siemens\\customsolutions\\jar",
+      "backupDir": "D:\\backups\\",
+      "deployBackupDir": "D:\\backups\\"
+    }
+  ]
+}
